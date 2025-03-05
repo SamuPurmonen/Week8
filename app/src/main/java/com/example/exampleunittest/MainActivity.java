@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     };
-
+    // joku muutos että gitti herää
 
     public void EurToUsd(View view){
         double EurUsd = 1.05;
